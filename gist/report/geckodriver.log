@@ -1,0 +1,27 @@
+1553587024695	geckodriver	INFO	geckodriver 0.18.0
+1553587024699	geckodriver	INFO	Listening on 127.0.0.1:50191
+1553587025852	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1553587028147	Marionette	INFO	Listening on port 36695
+1553587028164	Marionette	WARN	TLS certificate errors will be ignored for this session
+[Parent 23837, Gecko_IOThread] WARNING: pipe error (62): Connection reset by peer: file /build/firefox-SAtaq0/firefox-61.0.1+linuxmint1+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1553587651144	geckodriver	INFO	geckodriver 0.18.0
+1553587651148	geckodriver	INFO	Listening on 127.0.0.1:54625
+1553587652260	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1553587653862	Marionette	INFO	Listening on port 40949
+1553587653890	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.staging.klikdokter.com/gulpbuilds/klikdokter.js, line 7: TypeError: window.ahoy.init is not a function
+JavaScript error: http://www.staging.klikdokter.com/gulpbuilds/klikdokter.js, line 7: TypeError: window.ahoy.init is not a function
+JavaScript error: http://www.staging.klikdokter.com/gulpbuilds/klikdokter.js, line 7: TypeError: window.ahoy.init is not a function
+[Child 24936, Chrome_ChildThread] WARNING: pipe error (37): Connection reset by peer: file /build/firefox-SAtaq0/firefox-61.0.1+linuxmint1+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 24936, Chrome_ChildThread] WARNING: pipe error (18): Connection reset by peer: file /build/firefox-SAtaq0/firefox-61.0.1+linuxmint1+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 24936, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SAtaq0/firefox-61.0.1+linuxmint1+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+1553591935795	geckodriver	INFO	geckodriver 0.18.0
+1553591935800	geckodriver	INFO	Listening on 127.0.0.1:58317
+1553591936952	geckodriver::marionette	INFO	Starting browser /usr/bin/firefox with args ["-marionette"]
+1553591938735	Marionette	INFO	Listening on port 45037
+1553591938774	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://www.staging.klikdokter.com/gulpbuilds/klikdokter.js, line 7: TypeError: window.ahoy.init is not a function
+JavaScript error: http://www.staging.klikdokter.com/gulpbuilds/klikdokter.js, line 7: TypeError: window.ahoy.init is not a function
+JavaScript error: http://www.staging.klikdokter.com/gulpbuilds/klikdokter.js, line 7: TypeError: window.ahoy.init is not a function
+[Child 29998, Chrome_ChildThread] WARNING: pipe error (25): Connection reset by peer: file /build/firefox-SAtaq0/firefox-61.0.1+linuxmint1+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353
+[Child 29998, Chrome_ChildThread] WARNING: pipe error (3): Connection reset by peer: file /build/firefox-SAtaq0/firefox-61.0.1+linuxmint1+tara/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 353

@@ -1,0 +1,2211 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot rpa="false" generated="20190313 10:56:59.749" generator="Robot 3.1 (Python 2.7.15rc1 on linux2)">
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase" id="s1" name="Testcase">
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-001-Article-001.robot" id="s1-s1" name="MH-001-Article-001">
+<test id="s1-s1-t1" name="MH-001-Article-001">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:56:59.963" starttime="20190313 10:56:59.963"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:56:59.963" starttime="20190313 10:56:59.962"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:56:59.963" starttime="20190313 10:56:59.963"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:56:59.964" starttime="20190313 10:56:59.964"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:56:59.964" starttime="20190313 10:56:59.963"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:56:59.964" critical="yes" starttime="20190313 10:56:59.962"></status>
+</test>
+<status status="PASS" endtime="20190313 10:56:59.964" starttime="20190313 10:56:59.776"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-001-Article-002.robot" id="s1-s2" name="MH-001-Article-002">
+<test id="s1-s2-t1" name="MH-001-Article-002">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:56:59.973" starttime="20190313 10:56:59.973"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:56:59.973" starttime="20190313 10:56:59.973"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:56:59.973" starttime="20190313 10:56:59.973"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:56:59.974" starttime="20190313 10:56:59.974"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:56:59.974" starttime="20190313 10:56:59.973"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:56:59.974" critical="yes" starttime="20190313 10:56:59.972"></status>
+</test>
+<status status="PASS" endtime="20190313 10:56:59.974" starttime="20190313 10:56:59.965"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-001-Article-003.robot" id="s1-s3" name="MH-001-Article-003">
+<test id="s1-s3-t1" name="MH-001-Article-003">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:56:59.982" starttime="20190313 10:56:59.982"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:56:59.982" starttime="20190313 10:56:59.981"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:56:59.982" starttime="20190313 10:56:59.982"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:56:59.982" starttime="20190313 10:56:59.982"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:56:59.982" starttime="20190313 10:56:59.982"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:56:59.982" critical="yes" starttime="20190313 10:56:59.981"></status>
+</test>
+<status status="PASS" endtime="20190313 10:56:59.983" starttime="20190313 10:56:59.975"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-001-Article-004.robot" id="s1-s4" name="MH-001-Article-004">
+<test id="s1-s4-t1" name="MH-001-Article-003">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:56:59.989" starttime="20190313 10:56:59.989"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:56:59.989" starttime="20190313 10:56:59.989"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:56:59.990" starttime="20190313 10:56:59.989"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:56:59.990" starttime="20190313 10:56:59.990"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:56:59.990" starttime="20190313 10:56:59.990"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:56:59.990" critical="yes" starttime="20190313 10:56:59.989"></status>
+</test>
+<status status="PASS" endtime="20190313 10:56:59.990" starttime="20190313 10:56:59.983"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-002-TrendingTopik-001.robot" id="s1-s5" name="MH-002-TrendingTopik-001">
+<test id="s1-s5-t1" name="MH-001-Article-003">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:56:59.997" starttime="20190313 10:56:59.997"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:56:59.997" starttime="20190313 10:56:59.997"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:56:59.997" starttime="20190313 10:56:59.997"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:56:59.998" starttime="20190313 10:56:59.997"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:56:59.998" starttime="20190313 10:56:59.997"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:56:59.998" critical="yes" starttime="20190313 10:56:59.996"></status>
+</test>
+<status status="PASS" endtime="20190313 10:56:59.998" starttime="20190313 10:56:59.991"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-003-TanyaDokter-001.robot" id="s1-s6" name="MH-003-TanyaDokter-001">
+<test id="s1-s6-t1" name="MH-001-Article-003">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.008" starttime="20190313 10:57:00.008"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.008" starttime="20190313 10:57:00.007"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.008" starttime="20190313 10:57:00.008"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.009" starttime="20190313 10:57:00.009"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.009" starttime="20190313 10:57:00.009"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.009" critical="yes" starttime="20190313 10:57:00.007"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.010" starttime="20190313 10:56:59.999"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-003-TanyaDokter-002.robot" id="s1-s7" name="MH-003-TanyaDokter-002">
+<test id="s1-s7-t1" name="MH-003-TanyaDokter-002">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.019" starttime="20190313 10:57:00.019"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.019" starttime="20190313 10:57:00.018"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.019" starttime="20190313 10:57:00.019"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.020" starttime="20190313 10:57:00.020"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.020" starttime="20190313 10:57:00.019"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.020" critical="yes" starttime="20190313 10:57:00.018"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.020" starttime="20190313 10:57:00.011"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-004-HealthTools-001.robot" id="s1-s8" name="MH-004-HealthTools-001">
+<test id="s1-s8-t1" name="MH-004-HealthTools-001">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.027" starttime="20190313 10:57:00.027"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.027" starttime="20190313 10:57:00.027"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.027" starttime="20190313 10:57:00.027"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.028" starttime="20190313 10:57:00.028"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.028" starttime="20190313 10:57:00.028"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.028" critical="yes" starttime="20190313 10:57:00.026"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.028" starttime="20190313 10:57:00.021"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-004-HealthTools-002.robot" id="s1-s9" name="MH-004-HealthTools-002">
+<test id="s1-s9-t1" name="MH-004-HealthTools-002">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.035" starttime="20190313 10:57:00.035"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.035" starttime="20190313 10:57:00.034"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.035" starttime="20190313 10:57:00.035"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.035" starttime="20190313 10:57:00.035"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.035" starttime="20190313 10:57:00.035"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.035" critical="yes" starttime="20190313 10:57:00.034"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.036" starttime="20190313 10:57:00.029"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-004-HealthTools-003.robot" id="s1-s10" name="MH-004-HealthTools-003">
+<test id="s1-s10-t1" name="MH-004-HealthTools-001">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.042" starttime="20190313 10:57:00.042"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.042" starttime="20190313 10:57:00.042"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.042" starttime="20190313 10:57:00.042"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.043" starttime="20190313 10:57:00.043"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.043" starttime="20190313 10:57:00.043"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.043" critical="yes" starttime="20190313 10:57:00.042"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.043" starttime="20190313 10:57:00.036"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-004-HealthTools-004.robot" id="s1-s11" name="MH-004-HealthTools-004">
+<test id="s1-s11-t1" name="MH-004-HealthTools-001">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.051" starttime="20190313 10:57:00.051"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.051" starttime="20190313 10:57:00.051"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.052" starttime="20190313 10:57:00.051"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.052" starttime="20190313 10:57:00.052"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.052" starttime="20190313 10:57:00.052"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.052" critical="yes" starttime="20190313 10:57:00.051"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.052" starttime="20190313 10:57:00.044"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-004-HealthTools-005.robot" id="s1-s12" name="MH-004-HealthTools-005">
+<test id="s1-s12-t1" name="MH-004-HealthTools-001">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.059" starttime="20190313 10:57:00.059"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.059" starttime="20190313 10:57:00.059"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.060" starttime="20190313 10:57:00.060"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.060" starttime="20190313 10:57:00.060"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.060" starttime="20190313 10:57:00.060"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.060" critical="yes" starttime="20190313 10:57:00.059"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.060" starttime="20190313 10:57:00.053"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-004-HealthTools-006.robot" id="s1-s13" name="MH-004-HealthTools-006">
+<test id="s1-s13-t1" name="MH-004-HealthTools-001">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.069" starttime="20190313 10:57:00.069"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.069" starttime="20190313 10:57:00.068"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.069" starttime="20190313 10:57:00.069"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.070" starttime="20190313 10:57:00.069"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.070" starttime="20190313 10:57:00.069"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.070" critical="yes" starttime="20190313 10:57:00.068"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.070" starttime="20190313 10:57:00.061"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-004-HealthTools-007.robot" id="s1-s14" name="MH-004-HealthTools-007">
+<test id="s1-s14-t1" name="MH-004-HealthTools-001">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.083" starttime="20190313 10:57:00.082"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.083" starttime="20190313 10:57:00.082"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.083" starttime="20190313 10:57:00.083"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.084" starttime="20190313 10:57:00.084"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.084" starttime="20190313 10:57:00.083"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.084" critical="yes" starttime="20190313 10:57:00.081"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.085" starttime="20190313 10:57:00.071"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-004-HealthTools-008.robot" id="s1-s15" name="MH-004-HealthTools-008">
+<test id="s1-s15-t1" name="MH-004-HealthTools-001">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.094" starttime="20190313 10:57:00.093"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.094" starttime="20190313 10:57:00.093"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.094" starttime="20190313 10:57:00.094"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.094" starttime="20190313 10:57:00.094"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.094" starttime="20190313 10:57:00.094"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.094" critical="yes" starttime="20190313 10:57:00.093"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.095" starttime="20190313 10:57:00.086"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-004-RubrikSpecialist-001.robot" id="s1-s16" name="MH-004-RubrikSpecialist-001">
+<test id="s1-s16-t1" name="MH-004-RubrikSpecialist-001">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.103" starttime="20190313 10:57:00.103"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.103" starttime="20190313 10:57:00.103"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.103" starttime="20190313 10:57:00.103"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.104" starttime="20190313 10:57:00.104"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.104" starttime="20190313 10:57:00.103"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.104" critical="yes" starttime="20190313 10:57:00.102"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.104" starttime="20190313 10:57:00.095"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-005-PenyakitObat-001.robot" id="s1-s17" name="MH-005-PenyakitObat-001">
+<test id="s1-s17-t1" name="MH-005-PenyakitObat-001">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.112" starttime="20190313 10:57:00.112"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.112" starttime="20190313 10:57:00.112"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.112" starttime="20190313 10:57:00.112"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.113" starttime="20190313 10:57:00.113"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.113" starttime="20190313 10:57:00.112"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.113" critical="yes" starttime="20190313 10:57:00.111"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.113" starttime="20190313 10:57:00.105"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-006-Populer-001.robot" id="s1-s18" name="MH-006-Populer-001">
+<test id="s1-s18-t1" name="MH-005-PenyakitObat-001">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.121" starttime="20190313 10:57:00.121"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.121" starttime="20190313 10:57:00.120"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.121" starttime="20190313 10:57:00.121"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.122" starttime="20190313 10:57:00.122"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.122" starttime="20190313 10:57:00.121"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.122" critical="yes" starttime="20190313 10:57:00.120"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.122" starttime="20190313 10:57:00.114"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-007-LiveChat-001.robot" id="s1-s19" name="MH-007-LiveChat-001">
+<test id="s1-s19-t1" name="MH-007-LiveChat-001">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.130" starttime="20190313 10:57:00.130"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.130" starttime="20190313 10:57:00.130"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.130" starttime="20190313 10:57:00.130"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.131" starttime="20190313 10:57:00.131"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.131" starttime="20190313 10:57:00.131"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.131" critical="yes" starttime="20190313 10:57:00.129"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.131" starttime="20190313 10:57:00.123"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MIS-001-RandomTab-001.robot" id="s1-s20" name="MIS-001-RandomTab-001">
+<test id="s1-s20-t1" name="MIS-001-RandomTab-001">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.139" starttime="20190313 10:57:00.139"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.139" starttime="20190313 10:57:00.139"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.139" starttime="20190313 10:57:00.139"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.140" starttime="20190313 10:57:00.140"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.140" starttime="20190313 10:57:00.139"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.140" critical="yes" starttime="20190313 10:57:00.138"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.140" starttime="20190313 10:57:00.132"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MIS-001-RandomTab-002.robot" id="s1-s21" name="MIS-001-RandomTab-002">
+<test id="s1-s21-t1" name="MIS-001-RandomTab-002">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.147" starttime="20190313 10:57:00.147"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.147" starttime="20190313 10:57:00.147"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.147" starttime="20190313 10:57:00.147"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.148" starttime="20190313 10:57:00.148"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.148" starttime="20190313 10:57:00.147"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.148" critical="yes" starttime="20190313 10:57:00.146"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.148" starttime="20190313 10:57:00.141"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MIS-001-RandomTab-003.robot" id="s1-s22" name="MIS-001-RandomTab-003">
+<test id="s1-s22-t1" name="MIS-001-RandomTab-003">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.154" starttime="20190313 10:57:00.154"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.155" starttime="20190313 10:57:00.154"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.155" starttime="20190313 10:57:00.155"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.155" starttime="20190313 10:57:00.155"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.155" starttime="20190313 10:57:00.155"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.155" critical="yes" starttime="20190313 10:57:00.154"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.155" starttime="20190313 10:57:00.149"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MIS-001-RandomTab-004.robot" id="s1-s23" name="MIS-001-RandomTab-004">
+<test id="s1-s23-t1" name="MIS-001-RandomTab-004">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.162" starttime="20190313 10:57:00.162"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.162" starttime="20190313 10:57:00.161"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.162" starttime="20190313 10:57:00.162"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.162" starttime="20190313 10:57:00.162"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.162" starttime="20190313 10:57:00.162"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.162" critical="yes" starttime="20190313 10:57:00.161"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.163" starttime="20190313 10:57:00.156"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MIS-001-RandomTab-005.robot" id="s1-s24" name="MIS-001-RandomTab-005">
+<test id="s1-s24-t1" name="MIS-001-RandomTab-004">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.171" starttime="20190313 10:57:00.171"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.171" starttime="20190313 10:57:00.170"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.171" starttime="20190313 10:57:00.171"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.171" starttime="20190313 10:57:00.171"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.171" starttime="20190313 10:57:00.171"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.171" critical="yes" starttime="20190313 10:57:00.170"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.172" starttime="20190313 10:57:00.163"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MIS-001-RandomTab-006.robot" id="s1-s25" name="MIS-001-RandomTab-006">
+<test id="s1-s25-t1" name="MIS-001-RandomTab-004">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.178" starttime="20190313 10:57:00.178"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.178" starttime="20190313 10:57:00.178"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.178" starttime="20190313 10:57:00.178"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.179" starttime="20190313 10:57:00.179"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.179" starttime="20190313 10:57:00.179"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.179" critical="yes" starttime="20190313 10:57:00.177"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.179" starttime="20190313 10:57:00.172"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MO-001-MenuObatAll-001.robot" id="s1-s26" name="MO-001-MenuObatAll-001">
+<test id="s1-s26-t1" name="MO-001-MenuObatAll-001 see the listing All Menu Obat from A-Z">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.192" starttime="20190313 10:57:00.192"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.192" starttime="20190313 10:57:00.192"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.192" starttime="20190313 10:57:00.192"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.193" starttime="20190313 10:57:00.193"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.193" starttime="20190313 10:57:00.192"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.193" critical="yes" starttime="20190313 10:57:00.191"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.193" starttime="20190313 10:57:00.180"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MO-002-MenuObat-001.robot" id="s1-s27" name="MO-002-MenuObat-001">
+<test id="s1-s27-t1" name="MO-002-MenuObat-001 read specific medicine in Menu Obat">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.200" starttime="20190313 10:57:00.200"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.200" starttime="20190313 10:57:00.200"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.200" starttime="20190313 10:57:00.200"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.200" starttime="20190313 10:57:00.200"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.201" starttime="20190313 10:57:00.200"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.201" critical="yes" starttime="20190313 10:57:00.199"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.201" starttime="20190313 10:57:00.193"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MO-002-MenuObat-002.robot" id="s1-s28" name="MO-002-MenuObat-002">
+<test id="s1-s28-t1" name="MO-002-MenuObat-002 read articles based on the name of the selected drug">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.209" starttime="20190313 10:57:00.209"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.209" starttime="20190313 10:57:00.209"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.209" starttime="20190313 10:57:00.209"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.210" starttime="20190313 10:57:00.210"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.210" starttime="20190313 10:57:00.209"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.210" critical="yes" starttime="20190313 10:57:00.208"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.210" starttime="20190313 10:57:00.201"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MP-001-Random-001.robot" id="s1-s29" name="MP-001-Random-001">
+<test id="s1-s29-t1" name="SS-002-MenuPenyakit-001">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.219" starttime="20190313 10:57:00.218"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.219" starttime="20190313 10:57:00.218"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.219" starttime="20190313 10:57:00.219"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.219" starttime="20190313 10:57:00.219"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.219" starttime="20190313 10:57:00.219"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.219" critical="yes" starttime="20190313 10:57:00.218"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.220" starttime="20190313 10:57:00.211"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MP-001-Random-002.robot" id="s1-s30" name="MP-001-Random-002">
+<test id="s1-s30-t1" name="MP-001-Random-002">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.228" starttime="20190313 10:57:00.228"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.229" starttime="20190313 10:57:00.228"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.229" starttime="20190313 10:57:00.229"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.229" starttime="20190313 10:57:00.229"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.229" starttime="20190313 10:57:00.229"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.229" critical="yes" starttime="20190313 10:57:00.228"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.230" starttime="20190313 10:57:00.221"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MP-001-Random-003.robot" id="s1-s31" name="MP-001-Random-003">
+<test id="s1-s31-t1" name="MP-001-Random-003">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.238" starttime="20190313 10:57:00.238"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.238" starttime="20190313 10:57:00.238"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.238" starttime="20190313 10:57:00.238"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.239" starttime="20190313 10:57:00.239"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.239" starttime="20190313 10:57:00.239"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.239" critical="yes" starttime="20190313 10:57:00.237"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.239" starttime="20190313 10:57:00.230"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MSP-001-GigiMulut-001.robot" id="s1-s32" name="MSP-001-GigiMulut-001">
+<test id="s1-s32-t1" name="MSP-001-GigiMulut-001 klik quick menu gigimulut in menu specilaist, read one of the article">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.248" starttime="20190313 10:57:00.247"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.248" starttime="20190313 10:57:00.247"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.248" starttime="20190313 10:57:00.248"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.248" starttime="20190313 10:57:00.248"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.248" starttime="20190313 10:57:00.248"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.249" critical="yes" starttime="20190313 10:57:00.247"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.249" starttime="20190313 10:57:00.240"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MSP-001-Random-001.robot" id="s1-s33" name="MSP-001-Random-001">
+<test id="s1-s33-t1" name="MSP-001-Random-001">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.257" starttime="20190313 10:57:00.257"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.257" starttime="20190313 10:57:00.257"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.257" starttime="20190313 10:57:00.257"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.258" starttime="20190313 10:57:00.258"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.258" starttime="20190313 10:57:00.257"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.258" critical="yes" starttime="20190313 10:57:00.256"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.258" starttime="20190313 10:57:00.250"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MSP-001-Random-002.robot" id="s1-s34" name="MSP-001-Random-002">
+<test id="s1-s34-t1" name="MSP-001-Random-002">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.266" starttime="20190313 10:57:00.266"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.266" starttime="20190313 10:57:00.266"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.266" starttime="20190313 10:57:00.266"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.267" starttime="20190313 10:57:00.267"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.267" starttime="20190313 10:57:00.267"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.267" critical="yes" starttime="20190313 10:57:00.265"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.267" starttime="20190313 10:57:00.259"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MSP-001-Random-003.robot" id="s1-s35" name="MSP-001-Random-003">
+<test id="s1-s35-t1" name="MSP-001-Random-003">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.276" starttime="20190313 10:57:00.276"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.276" starttime="20190313 10:57:00.276"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.277" starttime="20190313 10:57:00.277"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.277" starttime="20190313 10:57:00.277"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.277" starttime="20190313 10:57:00.277"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.277" critical="yes" starttime="20190313 10:57:00.276"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.278" starttime="20190313 10:57:00.268"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MSP-001-Random-004.robot" id="s1-s36" name="MSP-001-Random-004">
+<test id="s1-s36-t1" name="MSP-001-Random-004">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.286" starttime="20190313 10:57:00.286"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.286" starttime="20190313 10:57:00.286"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.286" starttime="20190313 10:57:00.286"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.287" starttime="20190313 10:57:00.287"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.287" starttime="20190313 10:57:00.286"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.287" critical="yes" starttime="20190313 10:57:00.285"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.287" starttime="20190313 10:57:00.278"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MTD-001-TanyaDokter-001.robot" id="s1-s37" name="MTD-001-TanyaDokter-001">
+<test id="s1-s37-t1" name="MTD-001-TanyaDokter-001">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.296" starttime="20190313 10:57:00.296"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.296" starttime="20190313 10:57:00.295"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.296" starttime="20190313 10:57:00.296"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.296" starttime="20190313 10:57:00.296"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.296" starttime="20190313 10:57:00.296"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.296" critical="yes" starttime="20190313 10:57:00.295"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.297" starttime="20190313 10:57:00.288"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MTD-001-TanyaDokter-002.robot" id="s1-s38" name="MTD-001-TanyaDokter-002">
+<test id="s1-s38-t1" name="MTD-001-TanyaDokter-001">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.305" starttime="20190313 10:57:00.305"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.305" starttime="20190313 10:57:00.305"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.305" starttime="20190313 10:57:00.305"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.306" starttime="20190313 10:57:00.306"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.306" starttime="20190313 10:57:00.306"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.306" critical="yes" starttime="20190313 10:57:00.304"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.306" starttime="20190313 10:57:00.297"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MTD-001-TanyaDokter-003.robot" id="s1-s39" name="MTD-001-TanyaDokter-003">
+<test id="s1-s39-t1" name="MTD-001-TanyaDokter-003">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.315" starttime="20190313 10:57:00.315"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.315" starttime="20190313 10:57:00.315"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.316" starttime="20190313 10:57:00.316"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.316" critical="yes" starttime="20190313 10:57:00.315"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.316" starttime="20190313 10:57:00.307"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MTD-001-TanyaDokter-004.robot" id="s1-s40" name="MTD-001-TanyaDokter-004">
+<test id="s1-s40-t1" name="MTD-001-TanyaDokter-004">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.324" starttime="20190313 10:57:00.324"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.324" starttime="20190313 10:57:00.324"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.325" starttime="20190313 10:57:00.325"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.325" starttime="20190313 10:57:00.325"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.325" starttime="20190313 10:57:00.325"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.325" critical="yes" starttime="20190313 10:57:00.324"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.326" starttime="20190313 10:57:00.317"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MV-001-Random-001.robot" id="s1-s41" name="MV-001-Random-001">
+<test id="s1-s41-t1" name="MV-001-Random-001">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.334" starttime="20190313 10:57:00.333"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.334" starttime="20190313 10:57:00.333"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.334" starttime="20190313 10:57:00.334"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.334" starttime="20190313 10:57:00.334"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.334" starttime="20190313 10:57:00.334"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.334" critical="yes" starttime="20190313 10:57:00.333"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.335" starttime="20190313 10:57:00.326"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MV-001-Random-002.robot" id="s1-s42" name="MV-001-Random-002">
+<test id="s1-s42-t1" name="MV-001-Random-001">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.342" starttime="20190313 10:57:00.342"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.342" starttime="20190313 10:57:00.342"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.343" starttime="20190313 10:57:00.343"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.343" critical="yes" starttime="20190313 10:57:00.342"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.343" starttime="20190313 10:57:00.335"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-001.robot" id="s1-s43" name="S-001-Success-001">
+<test id="s1-s43-t1" name="S-001-Success-001">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.353" starttime="20190313 10:57:00.352"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.353" starttime="20190313 10:57:00.352"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.353" starttime="20190313 10:57:00.353"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.353" starttime="20190313 10:57:00.353"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.353" starttime="20190313 10:57:00.353"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.354" critical="yes" starttime="20190313 10:57:00.352"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.354" starttime="20190313 10:57:00.344"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-002.robot" id="s1-s44" name="S-001-Success-002">
+<test id="s1-s44-t1" name="S-001-Success-002">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.365" starttime="20190313 10:57:00.365"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.365" starttime="20190313 10:57:00.365"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.365" starttime="20190313 10:57:00.365"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.365" critical="yes" starttime="20190313 10:57:00.364"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.365" starttime="20190313 10:57:00.355"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-003.robot" id="s1-s45" name="S-001-Success-003">
+<test id="s1-s45-t1" name="S-001-Success-003 Search article with specific topic, and see photo">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.373" starttime="20190313 10:57:00.373"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.373" starttime="20190313 10:57:00.373"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.373" starttime="20190313 10:57:00.373"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.374" starttime="20190313 10:57:00.374"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.374" starttime="20190313 10:57:00.373"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.374" critical="yes" starttime="20190313 10:57:00.372"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.374" starttime="20190313 10:57:00.366"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-004.robot" id="s1-s46" name="S-001-Success-004">
+<test id="s1-s46-t1" name="S-001-Success-005">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.381" starttime="20190313 10:57:00.381"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.381" starttime="20190313 10:57:00.381"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.381" starttime="20190313 10:57:00.381"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.381" starttime="20190313 10:57:00.381"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.381" starttime="20190313 10:57:00.381"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.382" starttime="20190313 10:57:00.381"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.382" starttime="20190313 10:57:00.382"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.382" starttime="20190313 10:57:00.382"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.382" starttime="20190313 10:57:00.382"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.382" starttime="20190313 10:57:00.382"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.382" critical="yes" starttime="20190313 10:57:00.380"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.383" starttime="20190313 10:57:00.375"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-005.robot" id="s1-s47" name="S-001-Success-005">
+<test id="s1-s47-t1" name="S-001-Success-005">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.389" starttime="20190313 10:57:00.389"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.389" starttime="20190313 10:57:00.389"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.389" starttime="20190313 10:57:00.389"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.389" starttime="20190313 10:57:00.389"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.389" starttime="20190313 10:57:00.389"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.390" starttime="20190313 10:57:00.390"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.390" starttime="20190313 10:57:00.390"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.390" starttime="20190313 10:57:00.390"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.390" starttime="20190313 10:57:00.390"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.390" starttime="20190313 10:57:00.390"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.390" critical="yes" starttime="20190313 10:57:00.388"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.391" starttime="20190313 10:57:00.383"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-006.robot" id="s1-s48" name="S-001-Success-006">
+<test id="s1-s48-t1" name="S-001-Success-006">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.397" starttime="20190313 10:57:00.397"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.397" starttime="20190313 10:57:00.397"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.397" starttime="20190313 10:57:00.397"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.398" starttime="20190313 10:57:00.398"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.398" starttime="20190313 10:57:00.398"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.398" starttime="20190313 10:57:00.398"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.398" starttime="20190313 10:57:00.398"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.398" starttime="20190313 10:57:00.398"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.398" starttime="20190313 10:57:00.398"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.399" starttime="20190313 10:57:00.398"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.399" critical="yes" starttime="20190313 10:57:00.397"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.399" starttime="20190313 10:57:00.391"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-007.robot" id="s1-s49" name="S-001-Success-007">
+<test id="s1-s49-t1" name="S-001-Success-007">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.405" starttime="20190313 10:57:00.405"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.406" starttime="20190313 10:57:00.405"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.406" starttime="20190313 10:57:00.406"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.406" starttime="20190313 10:57:00.406"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.406" starttime="20190313 10:57:00.406"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.406" critical="yes" starttime="20190313 10:57:00.405"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.407" starttime="20190313 10:57:00.399"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-008.robot" id="s1-s50" name="S-001-Success-008">
+<test id="s1-s50-t1" name="S-001-Success-008">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.414" starttime="20190313 10:57:00.414"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.414" starttime="20190313 10:57:00.414"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.414" starttime="20190313 10:57:00.414"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.414" critical="yes" starttime="20190313 10:57:00.413"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.414" starttime="20190313 10:57:00.407"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-009.robot" id="s1-s51" name="S-001-Success-009">
+<test id="s1-s51-t1" name="S-001-Success-009">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.421" starttime="20190313 10:57:00.421"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.421" starttime="20190313 10:57:00.421"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.421" starttime="20190313 10:57:00.421"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.422" starttime="20190313 10:57:00.422"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.422" starttime="20190313 10:57:00.422"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.422" critical="yes" starttime="20190313 10:57:00.421"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.422" starttime="20190313 10:57:00.415"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-010.robot" id="s1-s52" name="S-001-Success-010">
+<test id="s1-s52-t1" name="S-001-Success-0010">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.429" starttime="20190313 10:57:00.429"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.429" starttime="20190313 10:57:00.429"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.430" starttime="20190313 10:57:00.430"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.430" critical="yes" starttime="20190313 10:57:00.429"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.430" starttime="20190313 10:57:00.423"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-011.robot" id="s1-s53" name="S-001-Success-011">
+<test id="s1-s53-t1" name="S-001-Success-0011">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.437" starttime="20190313 10:57:00.436"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.437" starttime="20190313 10:57:00.436"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.437" starttime="20190313 10:57:00.437"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.437" starttime="20190313 10:57:00.437"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.437" starttime="20190313 10:57:00.437"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.437" critical="yes" starttime="20190313 10:57:00.436"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.437" starttime="20190313 10:57:00.430"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-012.robot" id="s1-s54" name="S-001-Success-012">
+<test id="s1-s54-t1" name="S-001-Success-0012">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.444" starttime="20190313 10:57:00.444"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.444" starttime="20190313 10:57:00.444"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.444" starttime="20190313 10:57:00.444"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.445" starttime="20190313 10:57:00.444"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.445" starttime="20190313 10:57:00.444"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.445" critical="yes" starttime="20190313 10:57:00.443"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.445" starttime="20190313 10:57:00.438"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-002-Failed-001.robot" id="s1-s55" name="S-002-Failed-001">
+<test id="s1-s55-t1" name="S-002-Failed-001 Search article with wrong topic">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.452" starttime="20190313 10:57:00.451"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.452" starttime="20190313 10:57:00.451"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.452" starttime="20190313 10:57:00.452"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.452" starttime="20190313 10:57:00.452"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.453" starttime="20190313 10:57:00.452"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.453" critical="yes" starttime="20190313 10:57:00.451"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.453" starttime="20190313 10:57:00.445"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-002-Failed-002.robot" id="s1-s56" name="S-002-Failed-002">
+<test id="s1-s56-t1" name="S-002-Failed-001 Search article with numeric value">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.461" starttime="20190313 10:57:00.461"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.461" starttime="20190313 10:57:00.460"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.461" starttime="20190313 10:57:00.461"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.462" starttime="20190313 10:57:00.462"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.462" starttime="20190313 10:57:00.461"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.462" critical="yes" starttime="20190313 10:57:00.460"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.462" starttime="20190313 10:57:00.453"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-002-Failed-003.robot" id="s1-s57" name="S-002-Failed-003">
+<test id="s1-s57-t1" name="S-002-Failed-003 Search article with alfanumeric value">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.470" starttime="20190313 10:57:00.470"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.470" starttime="20190313 10:57:00.470"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.470" starttime="20190313 10:57:00.470"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.471" starttime="20190313 10:57:00.471"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.471" starttime="20190313 10:57:00.470"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.471" critical="yes" starttime="20190313 10:57:00.469"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.471" starttime="20190313 10:57:00.463"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/UL-001-Success-001.robot" id="s1-s58" name="UL-001-Success-001">
+<test id="s1-s58-t1" name="UL-001-Success-001 user can be login Successfull">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.480" starttime="20190313 10:57:00.479"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.480" starttime="20190313 10:57:00.479"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.480" starttime="20190313 10:57:00.480"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.480" critical="yes" starttime="20190313 10:57:00.479"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.480" starttime="20190313 10:57:00.472"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/UL-001-Success-002.robot" id="s1-s59" name="UL-001-Success-002">
+<test id="s1-s59-t1" name="UL-001-Success-002 User can be logout Successfull">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.488" starttime="20190313 10:57:00.488"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.488" starttime="20190313 10:57:00.488"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.488" starttime="20190313 10:57:00.488"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.489" starttime="20190313 10:57:00.489"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.489" starttime="20190313 10:57:00.488"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.489" critical="yes" starttime="20190313 10:57:00.487"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.489" starttime="20190313 10:57:00.481"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/UL-002-Failed-001.robot" id="s1-s60" name="UL-002-Failed-001">
+<test id="s1-s60-t1" name="UL-002-Failed-001 user can be login - username/email wrong">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.497" starttime="20190313 10:57:00.497"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.497" starttime="20190313 10:57:00.497"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.497" starttime="20190313 10:57:00.497"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.498" starttime="20190313 10:57:00.498"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.498" starttime="20190313 10:57:00.497"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.498" critical="yes" starttime="20190313 10:57:00.496"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.498" starttime="20190313 10:57:00.490"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/UL-002-Failed-002.robot" id="s1-s61" name="UL-002-Failed-002">
+<test id="s1-s61-t1" name="UL-002-Failed-002 user can be login - Invalid Password">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.507" starttime="20190313 10:57:00.507"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.507" starttime="20190313 10:57:00.507"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.508" starttime="20190313 10:57:00.507"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.508" starttime="20190313 10:57:00.508"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.508" starttime="20190313 10:57:00.508"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.508" critical="yes" starttime="20190313 10:57:00.506"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.508" starttime="20190313 10:57:00.499"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/UP-001-Profile-001.robot" id="s1-s62" name="UP-001-Profile-001">
+<test id="s1-s62-t1" name="UP-001-Profile-001 user can be click and see Aktivitas menu">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.516" starttime="20190313 10:57:00.516"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.516" starttime="20190313 10:57:00.516"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.517" starttime="20190313 10:57:00.516"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.517" starttime="20190313 10:57:00.517"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.517" starttime="20190313 10:57:00.517"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.517" critical="yes" starttime="20190313 10:57:00.515"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.518" starttime="20190313 10:57:00.509"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/UP-001-Profile-002.robot" id="s1-s63" name="UP-001-Profile-002">
+<test id="s1-s63-t1" name="UP-001-Profile-002 user can be click and see Profil menu">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.525" starttime="20190313 10:57:00.525"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.525" starttime="20190313 10:57:00.525"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.525" starttime="20190313 10:57:00.525"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.526" starttime="20190313 10:57:00.526"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.526" starttime="20190313 10:57:00.526"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.526" critical="yes" starttime="20190313 10:57:00.524"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.526" starttime="20190313 10:57:00.518"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/UP-001-Profile-003.robot" id="s1-s64" name="UP-001-Profile-003">
+<test id="s1-s64-t1" name="UP-001-Profile-003 user can be click and see Artikel menu">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.534" starttime="20190313 10:57:00.534"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.534" starttime="20190313 10:57:00.534"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.534" starttime="20190313 10:57:00.534"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.535" starttime="20190313 10:57:00.535"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.535" starttime="20190313 10:57:00.534"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.535" critical="yes" starttime="20190313 10:57:00.533"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.535" starttime="20190313 10:57:00.527"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/UP-001-Profile-004.robot" id="s1-s65" name="UP-001-Profile-004">
+<test id="s1-s65-t1" name="UP-001-Profile-004 user can be click and see Foto menu">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.543" starttime="20190313 10:57:00.543"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.543" starttime="20190313 10:57:00.543"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.543" starttime="20190313 10:57:00.543"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.544" starttime="20190313 10:57:00.544"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.544" starttime="20190313 10:57:00.544"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.544" critical="yes" starttime="20190313 10:57:00.542"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.544" starttime="20190313 10:57:00.536"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/UP-001-Profile-005.robot" id="s1-s66" name="UP-001-Profile-005">
+<test id="s1-s66-t1" name="UP-001-Profile-005 user can be click and see Video menu">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.552" starttime="20190313 10:57:00.552"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.552" starttime="20190313 10:57:00.552"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.552" starttime="20190313 10:57:00.552"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.553" starttime="20190313 10:57:00.553"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.553" starttime="20190313 10:57:00.552"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.553" critical="yes" starttime="20190313 10:57:00.551"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.553" starttime="20190313 10:57:00.545"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/UPG-001-Pengaturan-001.robot" id="s1-s67" name="UPG-001-Pengaturan-001">
+<test id="s1-s67-t1" name="UPG-001-Pengaturan-001 user can be to see Menu Pengaturan-Ubah Profil Successfully for blank data">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.565" starttime="20190313 10:57:00.565"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.565" starttime="20190313 10:57:00.565"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.565" starttime="20190313 10:57:00.565"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.566" starttime="20190313 10:57:00.566"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.566" starttime="20190313 10:57:00.566"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.566" critical="yes" starttime="20190313 10:57:00.564"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.566" starttime="20190313 10:57:00.554"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/UPG-001-Pengaturan-002.robot" id="s1-s68" name="UPG-001-Pengaturan-002">
+<test id="s1-s68-t1" name="UPG-001-Pengaturan-002 user can be to see Menu Pengaturan-Ubah Profil Successfully for existing data">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.574" starttime="20190313 10:57:00.574"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.574" starttime="20190313 10:57:00.574"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.574" starttime="20190313 10:57:00.574"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.575" starttime="20190313 10:57:00.575"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.575" starttime="20190313 10:57:00.574"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.575" critical="yes" starttime="20190313 10:57:00.573"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.575" starttime="20190313 10:57:00.567"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/UPG-001-Pengaturan-003.robot" id="s1-s69" name="UPG-001-Pengaturan-003">
+<test id="s1-s69-t1" name="UPG-001-Pengaturan-003 user can be to see Menu Pengaturan-Ubah Profil and click button Batal">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.582" starttime="20190313 10:57:00.582"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.582" starttime="20190313 10:57:00.582"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.583" starttime="20190313 10:57:00.582"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.583" starttime="20190313 10:57:00.583"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.583" starttime="20190313 10:57:00.583"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.583" critical="yes" starttime="20190313 10:57:00.582"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.583" starttime="20190313 10:57:00.576"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/UPG-001-Pengaturan-004.robot" id="s1-s70" name="UPG-001-Pengaturan-004">
+<test id="s1-s70-t1" name="UPG-001-Pengaturan-004 user can be to see Menu Pengaturan-Ubah Profil-invalid format date">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.590" starttime="20190313 10:57:00.590"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.590" starttime="20190313 10:57:00.590"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.590" starttime="20190313 10:57:00.590"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.591" starttime="20190313 10:57:00.591"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.591" starttime="20190313 10:57:00.591"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.591" critical="yes" starttime="20190313 10:57:00.589"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.591" starttime="20190313 10:57:00.584"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/UPG-001-Pengaturan-005.robot" id="s1-s71" name="UPG-001-Pengaturan-005">
+<test id="s1-s71-t1" name="UPG-001-Pengaturan-005 user can be to see Menu Pengaturan-Ubah Profil-password now is wrong">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.599" starttime="20190313 10:57:00.599"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.599" starttime="20190313 10:57:00.598"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.599" starttime="20190313 10:57:00.599"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.599" starttime="20190313 10:57:00.599"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.599" starttime="20190313 10:57:00.599"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.599" critical="yes" starttime="20190313 10:57:00.598"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.600" starttime="20190313 10:57:00.592"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/UPG-001-Pengaturan-006.robot" id="s1-s72" name="UPG-001-Pengaturan-006">
+<test id="s1-s72-t1" name="UPG-001-Pengaturan-006 user can be to see Menu Pengaturan-Ubah Profil-password confirm not match">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.607" starttime="20190313 10:57:00.607"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.607" starttime="20190313 10:57:00.606"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.607" starttime="20190313 10:57:00.607"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.607" critical="yes" starttime="20190313 10:57:00.606"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.607" starttime="20190313 10:57:00.600"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/UPG-001-Pengaturan-008.robot" id="s1-s73" name="UPG-001-Pengaturan-008">
+<test id="s1-s73-t1" name="UPG-001-Pengaturan-008 user can be to see Menu Pengaturan-Ubah gambar Foto-template successfull">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.615" starttime="20190313 10:57:00.614"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.615" starttime="20190313 10:57:00.614"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.615" starttime="20190313 10:57:00.615"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.615" starttime="20190313 10:57:00.615"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.615" starttime="20190313 10:57:00.615"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.615" critical="yes" starttime="20190313 10:57:00.614"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.616" starttime="20190313 10:57:00.608"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/UPG-001-Pengaturan-009.robot" id="s1-s74" name="UPG-001-Pengaturan-009">
+<test id="s1-s74-t1" name="UPG-001-Pengaturan-008 user can be to see Menu Pengaturan-Ubah gambar Foto-template successfull">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.624" starttime="20190313 10:57:00.624"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.624" starttime="20190313 10:57:00.624"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.624" starttime="20190313 10:57:00.624"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.625" starttime="20190313 10:57:00.625"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.625" starttime="20190313 10:57:00.624"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.625" critical="yes" starttime="20190313 10:57:00.623"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.625" starttime="20190313 10:57:00.616"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/UR-001-Success-002.robot" id="s1-s75" name="UR-001-Success-002">
+<test id="s1-s75-t1" name="UR-001-Success-002 user can be register-google success">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.634" starttime="20190313 10:57:00.634"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.634" starttime="20190313 10:57:00.634"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.635" starttime="20190313 10:57:00.634"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.635" starttime="20190313 10:57:00.635"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.635" starttime="20190313 10:57:00.635"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.635" critical="yes" starttime="20190313 10:57:00.634"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.635" starttime="20190313 10:57:00.626"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/UR-002-Failed-001.robot" id="s1-s76" name="UR-002-Failed-001">
+<test id="s1-s76-t1" name="UR-002-Failed-001 user can be register-invalid password minimum 7 character">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.643" starttime="20190313 10:57:00.643"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.643" starttime="20190313 10:57:00.642"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.643" starttime="20190313 10:57:00.643"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.643" starttime="20190313 10:57:00.643"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.643" starttime="20190313 10:57:00.643"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.643" critical="yes" starttime="20190313 10:57:00.642"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.644" starttime="20190313 10:57:00.636"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/UR-002-Failed-002.robot" id="s1-s77" name="UR-002-Failed-002">
+<test id="s1-s77-t1" name="UR-002-Failed-002 user can be register-invalid email format">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.651" starttime="20190313 10:57:00.650"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.651" starttime="20190313 10:57:00.650"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.651" starttime="20190313 10:57:00.651"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.651" starttime="20190313 10:57:00.651"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.651" starttime="20190313 10:57:00.651"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.651" critical="yes" starttime="20190313 10:57:00.650"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.652" starttime="20190313 10:57:00.644"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/UR-002-Failed-003.robot" id="s1-s78" name="UR-002-Failed-003">
+<test id="s1-s78-t1" name="UR-002-Failed-003 user can be register-already exist for username">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.658" starttime="20190313 10:57:00.658"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.658" starttime="20190313 10:57:00.658"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.659" starttime="20190313 10:57:00.659"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.659" starttime="20190313 10:57:00.659"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.659" starttime="20190313 10:57:00.659"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.659" critical="yes" starttime="20190313 10:57:00.658"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.659" starttime="20190313 10:57:00.652"></status>
+</suite>
+<suite source="/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/UR-002-Failed-004.robot" id="s1-s79" name="UR-002-Failed-004">
+<test id="s1-s79-t1" name="UR-002-Failed-004 user can be register- incomplete fullname">
+<kw type="setup" name="Setup Browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.666" starttime="20190313 10:57:00.666"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.666" starttime="20190313 10:57:00.666"></status>
+</kw>
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.666" starttime="20190313 10:57:00.666"></status>
+</kw>
+<kw type="teardown" name="Close browser" library="setting">
+<kw name="No Operation" library="BuiltIn">
+<doc>Does absolutely nothing.</doc>
+<status status="NOT_RUN" endtime="20190313 10:57:00.667" starttime="20190313 10:57:00.667"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.667" starttime="20190313 10:57:00.666"></status>
+</kw>
+<status status="PASS" endtime="20190313 10:57:00.667" critical="yes" starttime="20190313 10:57:00.665"></status>
+</test>
+<status status="PASS" endtime="20190313 10:57:00.667" starttime="20190313 10:57:00.660"></status>
+</suite>
+<status status="PASS" endtime="20190313 10:57:00.669" starttime="20190313 10:56:59.751"></status>
+</suite>
+<statistics>
+<total>
+<stat fail="0" pass="79">Critical Tests</stat>
+<stat fail="0" pass="79">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat fail="0" id="s1" name="Testcase" pass="79">Testcase</stat>
+<stat fail="0" id="s1-s1" name="MH-001-Article-001" pass="1">Testcase.MH-001-Article-001</stat>
+<stat fail="0" id="s1-s2" name="MH-001-Article-002" pass="1">Testcase.MH-001-Article-002</stat>
+<stat fail="0" id="s1-s3" name="MH-001-Article-003" pass="1">Testcase.MH-001-Article-003</stat>
+<stat fail="0" id="s1-s4" name="MH-001-Article-004" pass="1">Testcase.MH-001-Article-004</stat>
+<stat fail="0" id="s1-s5" name="MH-002-TrendingTopik-001" pass="1">Testcase.MH-002-TrendingTopik-001</stat>
+<stat fail="0" id="s1-s6" name="MH-003-TanyaDokter-001" pass="1">Testcase.MH-003-TanyaDokter-001</stat>
+<stat fail="0" id="s1-s7" name="MH-003-TanyaDokter-002" pass="1">Testcase.MH-003-TanyaDokter-002</stat>
+<stat fail="0" id="s1-s8" name="MH-004-HealthTools-001" pass="1">Testcase.MH-004-HealthTools-001</stat>
+<stat fail="0" id="s1-s9" name="MH-004-HealthTools-002" pass="1">Testcase.MH-004-HealthTools-002</stat>
+<stat fail="0" id="s1-s10" name="MH-004-HealthTools-003" pass="1">Testcase.MH-004-HealthTools-003</stat>
+<stat fail="0" id="s1-s11" name="MH-004-HealthTools-004" pass="1">Testcase.MH-004-HealthTools-004</stat>
+<stat fail="0" id="s1-s12" name="MH-004-HealthTools-005" pass="1">Testcase.MH-004-HealthTools-005</stat>
+<stat fail="0" id="s1-s13" name="MH-004-HealthTools-006" pass="1">Testcase.MH-004-HealthTools-006</stat>
+<stat fail="0" id="s1-s14" name="MH-004-HealthTools-007" pass="1">Testcase.MH-004-HealthTools-007</stat>
+<stat fail="0" id="s1-s15" name="MH-004-HealthTools-008" pass="1">Testcase.MH-004-HealthTools-008</stat>
+<stat fail="0" id="s1-s16" name="MH-004-RubrikSpecialist-001" pass="1">Testcase.MH-004-RubrikSpecialist-001</stat>
+<stat fail="0" id="s1-s17" name="MH-005-PenyakitObat-001" pass="1">Testcase.MH-005-PenyakitObat-001</stat>
+<stat fail="0" id="s1-s18" name="MH-006-Populer-001" pass="1">Testcase.MH-006-Populer-001</stat>
+<stat fail="0" id="s1-s19" name="MH-007-LiveChat-001" pass="1">Testcase.MH-007-LiveChat-001</stat>
+<stat fail="0" id="s1-s20" name="MIS-001-RandomTab-001" pass="1">Testcase.MIS-001-RandomTab-001</stat>
+<stat fail="0" id="s1-s21" name="MIS-001-RandomTab-002" pass="1">Testcase.MIS-001-RandomTab-002</stat>
+<stat fail="0" id="s1-s22" name="MIS-001-RandomTab-003" pass="1">Testcase.MIS-001-RandomTab-003</stat>
+<stat fail="0" id="s1-s23" name="MIS-001-RandomTab-004" pass="1">Testcase.MIS-001-RandomTab-004</stat>
+<stat fail="0" id="s1-s24" name="MIS-001-RandomTab-005" pass="1">Testcase.MIS-001-RandomTab-005</stat>
+<stat fail="0" id="s1-s25" name="MIS-001-RandomTab-006" pass="1">Testcase.MIS-001-RandomTab-006</stat>
+<stat fail="0" id="s1-s26" name="MO-001-MenuObatAll-001" pass="1">Testcase.MO-001-MenuObatAll-001</stat>
+<stat fail="0" id="s1-s27" name="MO-002-MenuObat-001" pass="1">Testcase.MO-002-MenuObat-001</stat>
+<stat fail="0" id="s1-s28" name="MO-002-MenuObat-002" pass="1">Testcase.MO-002-MenuObat-002</stat>
+<stat fail="0" id="s1-s29" name="MP-001-Random-001" pass="1">Testcase.MP-001-Random-001</stat>
+<stat fail="0" id="s1-s30" name="MP-001-Random-002" pass="1">Testcase.MP-001-Random-002</stat>
+<stat fail="0" id="s1-s31" name="MP-001-Random-003" pass="1">Testcase.MP-001-Random-003</stat>
+<stat fail="0" id="s1-s32" name="MSP-001-GigiMulut-001" pass="1">Testcase.MSP-001-GigiMulut-001</stat>
+<stat fail="0" id="s1-s33" name="MSP-001-Random-001" pass="1">Testcase.MSP-001-Random-001</stat>
+<stat fail="0" id="s1-s34" name="MSP-001-Random-002" pass="1">Testcase.MSP-001-Random-002</stat>
+<stat fail="0" id="s1-s35" name="MSP-001-Random-003" pass="1">Testcase.MSP-001-Random-003</stat>
+<stat fail="0" id="s1-s36" name="MSP-001-Random-004" pass="1">Testcase.MSP-001-Random-004</stat>
+<stat fail="0" id="s1-s37" name="MTD-001-TanyaDokter-001" pass="1">Testcase.MTD-001-TanyaDokter-001</stat>
+<stat fail="0" id="s1-s38" name="MTD-001-TanyaDokter-002" pass="1">Testcase.MTD-001-TanyaDokter-002</stat>
+<stat fail="0" id="s1-s39" name="MTD-001-TanyaDokter-003" pass="1">Testcase.MTD-001-TanyaDokter-003</stat>
+<stat fail="0" id="s1-s40" name="MTD-001-TanyaDokter-004" pass="1">Testcase.MTD-001-TanyaDokter-004</stat>
+<stat fail="0" id="s1-s41" name="MV-001-Random-001" pass="1">Testcase.MV-001-Random-001</stat>
+<stat fail="0" id="s1-s42" name="MV-001-Random-002" pass="1">Testcase.MV-001-Random-002</stat>
+<stat fail="0" id="s1-s43" name="S-001-Success-001" pass="1">Testcase.S-001-Success-001</stat>
+<stat fail="0" id="s1-s44" name="S-001-Success-002" pass="1">Testcase.S-001-Success-002</stat>
+<stat fail="0" id="s1-s45" name="S-001-Success-003" pass="1">Testcase.S-001-Success-003</stat>
+<stat fail="0" id="s1-s46" name="S-001-Success-004" pass="1">Testcase.S-001-Success-004</stat>
+<stat fail="0" id="s1-s47" name="S-001-Success-005" pass="1">Testcase.S-001-Success-005</stat>
+<stat fail="0" id="s1-s48" name="S-001-Success-006" pass="1">Testcase.S-001-Success-006</stat>
+<stat fail="0" id="s1-s49" name="S-001-Success-007" pass="1">Testcase.S-001-Success-007</stat>
+<stat fail="0" id="s1-s50" name="S-001-Success-008" pass="1">Testcase.S-001-Success-008</stat>
+<stat fail="0" id="s1-s51" name="S-001-Success-009" pass="1">Testcase.S-001-Success-009</stat>
+<stat fail="0" id="s1-s52" name="S-001-Success-010" pass="1">Testcase.S-001-Success-010</stat>
+<stat fail="0" id="s1-s53" name="S-001-Success-011" pass="1">Testcase.S-001-Success-011</stat>
+<stat fail="0" id="s1-s54" name="S-001-Success-012" pass="1">Testcase.S-001-Success-012</stat>
+<stat fail="0" id="s1-s55" name="S-002-Failed-001" pass="1">Testcase.S-002-Failed-001</stat>
+<stat fail="0" id="s1-s56" name="S-002-Failed-002" pass="1">Testcase.S-002-Failed-002</stat>
+<stat fail="0" id="s1-s57" name="S-002-Failed-003" pass="1">Testcase.S-002-Failed-003</stat>
+<stat fail="0" id="s1-s58" name="UL-001-Success-001" pass="1">Testcase.UL-001-Success-001</stat>
+<stat fail="0" id="s1-s59" name="UL-001-Success-002" pass="1">Testcase.UL-001-Success-002</stat>
+<stat fail="0" id="s1-s60" name="UL-002-Failed-001" pass="1">Testcase.UL-002-Failed-001</stat>
+<stat fail="0" id="s1-s61" name="UL-002-Failed-002" pass="1">Testcase.UL-002-Failed-002</stat>
+<stat fail="0" id="s1-s62" name="UP-001-Profile-001" pass="1">Testcase.UP-001-Profile-001</stat>
+<stat fail="0" id="s1-s63" name="UP-001-Profile-002" pass="1">Testcase.UP-001-Profile-002</stat>
+<stat fail="0" id="s1-s64" name="UP-001-Profile-003" pass="1">Testcase.UP-001-Profile-003</stat>
+<stat fail="0" id="s1-s65" name="UP-001-Profile-004" pass="1">Testcase.UP-001-Profile-004</stat>
+<stat fail="0" id="s1-s66" name="UP-001-Profile-005" pass="1">Testcase.UP-001-Profile-005</stat>
+<stat fail="0" id="s1-s67" name="UPG-001-Pengaturan-001" pass="1">Testcase.UPG-001-Pengaturan-001</stat>
+<stat fail="0" id="s1-s68" name="UPG-001-Pengaturan-002" pass="1">Testcase.UPG-001-Pengaturan-002</stat>
+<stat fail="0" id="s1-s69" name="UPG-001-Pengaturan-003" pass="1">Testcase.UPG-001-Pengaturan-003</stat>
+<stat fail="0" id="s1-s70" name="UPG-001-Pengaturan-004" pass="1">Testcase.UPG-001-Pengaturan-004</stat>
+<stat fail="0" id="s1-s71" name="UPG-001-Pengaturan-005" pass="1">Testcase.UPG-001-Pengaturan-005</stat>
+<stat fail="0" id="s1-s72" name="UPG-001-Pengaturan-006" pass="1">Testcase.UPG-001-Pengaturan-006</stat>
+<stat fail="0" id="s1-s73" name="UPG-001-Pengaturan-008" pass="1">Testcase.UPG-001-Pengaturan-008</stat>
+<stat fail="0" id="s1-s74" name="UPG-001-Pengaturan-009" pass="1">Testcase.UPG-001-Pengaturan-009</stat>
+<stat fail="0" id="s1-s75" name="UR-001-Success-002" pass="1">Testcase.UR-001-Success-002</stat>
+<stat fail="0" id="s1-s76" name="UR-002-Failed-001" pass="1">Testcase.UR-002-Failed-001</stat>
+<stat fail="0" id="s1-s77" name="UR-002-Failed-002" pass="1">Testcase.UR-002-Failed-002</stat>
+<stat fail="0" id="s1-s78" name="UR-002-Failed-003" pass="1">Testcase.UR-002-Failed-003</stat>
+<stat fail="0" id="s1-s79" name="UR-002-Failed-004" pass="1">Testcase.UR-002-Failed-004</stat>
+</suite>
+</statistics>
+<errors>
+<msg timestamp="20190313 10:56:59.629" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-001-Article-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.630" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-001-Article-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.630" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-001-Article-002.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.631" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-001-Article-002.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.631" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-001-Article-003.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.632" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-001-Article-003.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.633" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-001-Article-004.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.633" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-001-Article-004.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.634" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-002-TrendingTopik-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.634" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-002-TrendingTopik-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.635" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-003-TanyaDokter-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.635" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-003-TanyaDokter-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.636" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-003-TanyaDokter-002.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.636" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-003-TanyaDokter-002.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.637" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-004-HealthTools-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.637" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-004-HealthTools-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.638" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-004-HealthTools-002.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.638" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-004-HealthTools-002.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.639" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-004-HealthTools-003.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.640" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-004-HealthTools-003.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.642" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-004-HealthTools-004.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.642" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-004-HealthTools-004.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.643" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-004-HealthTools-005.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.643" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-004-HealthTools-005.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.644" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-004-HealthTools-006.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.645" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-004-HealthTools-006.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.646" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-004-HealthTools-007.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.646" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-004-HealthTools-007.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.647" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-004-HealthTools-008.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.648" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-004-HealthTools-008.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.649" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-004-RubrikSpecialist-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.649" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-004-RubrikSpecialist-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.650" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-005-PenyakitObat-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.650" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-005-PenyakitObat-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.651" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-006-Populer-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.652" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-006-Populer-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.652" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-007-LiveChat-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.653" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MH-007-LiveChat-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.653" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MIS-001-RandomTab-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.653" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MIS-001-RandomTab-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.654" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MIS-001-RandomTab-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.654" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MIS-001-RandomTab-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.654" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MIS-001-RandomTab-002.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.655" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MIS-001-RandomTab-002.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.655" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MIS-001-RandomTab-003.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.656" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MIS-001-RandomTab-003.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.656" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MIS-001-RandomTab-004.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.657" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MIS-001-RandomTab-004.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.657" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MIS-001-RandomTab-005.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.657" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MIS-001-RandomTab-005.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.658" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MIS-001-RandomTab-006.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.659" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MIS-001-RandomTab-006.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.660" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MO-001-MenuObatAll-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.661" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MO-002-MenuObat-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.662" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MO-002-MenuObat-002.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.664" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MP-001-Random-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.664" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MP-001-Random-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.664" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MP-001-Random-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.664" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MP-001-Random-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.665" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MP-001-Random-002.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.665" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MP-001-Random-002.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.665" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MP-001-Random-002.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.665" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MP-001-Random-002.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.667" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MP-001-Random-003.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.667" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MP-001-Random-003.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.667" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MP-001-Random-003.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.667" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MP-001-Random-003.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.669" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MSP-001-GigiMulut-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.669" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MSP-001-GigiMulut-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.669" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MSP-001-GigiMulut-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.670" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MSP-001-GigiMulut-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.670" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MSP-001-GigiMulut-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.670" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MSP-001-Random-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.671" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MSP-001-Random-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.672" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MSP-001-Random-002.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.672" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MSP-001-Random-002.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.673" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MSP-001-Random-003.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.673" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MSP-001-Random-003.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.674" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MSP-001-Random-004.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.675" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MSP-001-Random-004.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.676" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MTD-001-TanyaDokter-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.677" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MTD-001-TanyaDokter-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.677" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MTD-001-TanyaDokter-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.677" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MTD-001-TanyaDokter-002.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.678" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MTD-001-TanyaDokter-002.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.678" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MTD-001-TanyaDokter-002.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.678" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MTD-001-TanyaDokter-003.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.679" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MTD-001-TanyaDokter-003.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.679" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MTD-001-TanyaDokter-003.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.681" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MTD-001-TanyaDokter-004.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.681" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MTD-001-TanyaDokter-004.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.681" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MTD-001-TanyaDokter-004.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.682" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MV-001-Random-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.683" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MV-001-Random-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.683" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MV-001-Random-002.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.684" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MV-001-Random-002.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.685" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.685" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.685" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.685" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.686" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.686" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-002.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.686" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-002.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.687" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-002.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.687" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-002.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.688" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-003.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.688" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-003.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.688" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-003.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.688" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-003.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.688" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-003.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.690" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-004.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.690" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-004.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.690" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-004.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.691" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-004.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.692" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-005.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.693" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-005.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.693" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-005.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.693" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-005.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.694" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-006.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.694" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-006.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.695" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-006.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.695" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-006.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.697" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-007.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.697" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-007.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.697" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-007.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.697" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-007.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.698" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-008.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.699" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-008.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.699" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-008.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.699" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-008.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.700" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-009.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.700" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-009.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.700" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-009.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.701" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-009.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.701" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-010.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.702" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-010.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.702" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-010.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.702" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-010.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.702" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-010.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.703" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-011.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.703" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-011.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.703" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-011.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.703" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-011.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.703" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-011.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.704" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-012.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.704" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-012.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.704" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-012.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.705" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-012.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.705" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-012.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.705" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-002-Failed-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.706" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-002-Failed-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.706" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-002-Failed-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.706" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-002-Failed-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.706" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-002-Failed-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.707" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-002-Failed-002.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.707" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-002-Failed-002.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.707" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-002-Failed-002.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.707" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-002-Failed-002.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.707" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-002-Failed-002.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.708" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-002-Failed-003.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.708" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-002-Failed-003.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.708" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-002-Failed-003.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.708" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-002-Failed-003.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.709" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-002-Failed-003.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.709" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/UL-001-Success-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.710" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/UL-001-Success-002.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.711" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/UL-002-Failed-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.712" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/UL-002-Failed-002.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.713" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/UP-001-Profile-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.714" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/UP-001-Profile-002.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.714" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/UP-001-Profile-003.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.715" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/UP-001-Profile-004.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.715" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/UP-001-Profile-005.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.716" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/UPG-001-Pengaturan-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.717" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/UPG-001-Pengaturan-002.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.718" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/UPG-001-Pengaturan-003.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.719" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/UPG-001-Pengaturan-004.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.720" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/UPG-001-Pengaturan-005.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.721" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/UPG-001-Pengaturan-006.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.722" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/UPG-001-Pengaturan-008.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.723" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/UPG-001-Pengaturan-009.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.724" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/UR-001-Success-002.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.725" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/UR-002-Failed-001.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.726" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/UR-002-Failed-002.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.727" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/UR-002-Failed-003.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.728" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/UR-002-Failed-004.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.878" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/service/setting.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.879" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/service/setting.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.879" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/service/setting.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.935" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/service/resource.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.935" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/service/resource.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:56:59.935" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/service/resource.robot': Non-existing setting ''.</msg>
+<msg timestamp="20190313 10:57:00.180" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MO-001-MenuObatAll-001.robot': Setting variable '' failed: Invalid variable name ''.</msg>
+<msg timestamp="20190313 10:57:00.194" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MO-002-MenuObat-001.robot': Setting variable '' failed: Invalid variable name ''.</msg>
+<msg timestamp="20190313 10:57:00.202" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MO-002-MenuObat-002.robot': Setting variable '' failed: Invalid variable name ''.</msg>
+<msg timestamp="20190313 10:57:00.211" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MP-001-Random-001.robot': Setting variable '' failed: Invalid variable name ''.</msg>
+<msg timestamp="20190313 10:57:00.221" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/MP-001-Random-002.robot': Setting variable '' failed: Invalid variable name ''.</msg>
+<msg timestamp="20190313 10:57:00.355" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-002.robot': Setting variable '' failed: Invalid variable name ''.</msg>
+<msg timestamp="20190313 10:57:00.355" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-002.robot': Setting variable '' failed: Invalid variable name ''.</msg>
+<msg timestamp="20190313 10:57:00.375" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-004.robot': Setting variable '' failed: Invalid variable name ''.</msg>
+<msg timestamp="20190313 10:57:00.383" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-005.robot': Setting variable '' failed: Invalid variable name ''.</msg>
+<msg timestamp="20190313 10:57:00.391" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-006.robot': Setting variable '' failed: Invalid variable name ''.</msg>
+<msg timestamp="20190313 10:57:00.400" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-007.robot': Setting variable '' failed: Invalid variable name ''.</msg>
+<msg timestamp="20190313 10:57:00.408" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-008.robot': Setting variable '' failed: Invalid variable name ''.</msg>
+<msg timestamp="20190313 10:57:00.415" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-009.robot': Setting variable '' failed: Invalid variable name ''.</msg>
+<msg timestamp="20190313 10:57:00.415" level="ERROR">Error in file '/home/kiki/Devel/workspace/KlikDokterAutomation/Klikdokter/testcase/S-001-Success-009.robot': Setting variable '' failed: Invalid variable name ''.</msg>
+</errors>
+</robot>
